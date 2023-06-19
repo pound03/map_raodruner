@@ -1,0 +1,11 @@
+{
+    "map":[
+        
+        "name": "main",
+        "source": "/home/carla/Import/package1/main/main.fbx" ,
+        "use_carla_materials": true,
+        "xodr": "/home/carla/Import/package1/main/main.xodr"
+
+    ]
+
+}
